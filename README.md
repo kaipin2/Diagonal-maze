@@ -1,4 +1,4 @@
-# Diagonal-maze(以下Dm)をUnityで制作したときに使用したスクリプトを保存しています。
+# Diagonal-maze(以下Dm)をUnityで制作したときに使用したスクリプトを保存しています
 
 実行環境 Unity 2019.3.14f1(64-bit)
 
