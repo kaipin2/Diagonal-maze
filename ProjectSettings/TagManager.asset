@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GoalMass(Clone)TextOn
+  - GoalMass(Clone)TextUp
+  - StartMass(Clone)TextOp
+  - StartMass(Clone)TextUp
+  - StartMassTextOn
+  - StartMassTextUp
+  - StartMassText(Clone)TextOn
+  - StartMass(Clone)TextOn
+  - TextOn
+  - TextUp
+  - ActionMass(Clone)TextOn
+  - ActionMass(Clone)TextUp
+  - ActionMass(Clone)
+  - ActionMass
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
